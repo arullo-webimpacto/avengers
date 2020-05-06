@@ -18,3 +18,8 @@
 * Vision
 * Wasp
 * Antman
+* Abraham
+* Nicolas
+* Davids
+* Guillermo
+* Carlos
